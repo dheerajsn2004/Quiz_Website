@@ -16,12 +16,6 @@ const HomePage = () => {
 
       <div className="container">
         <div className="hero-section">
-          <img
-            src="/images/IEEE_Logo.jpg"
-            alt="Logo"
-            className="absolute top-10 left-20 w-40 h-40 rounded-full border-2 border-white"
-          />
-          <img src="/images/ieeelogo.png" alt="ieeelogo" className="absolute top-16 right-20 w-40 h-35 border-2 border-white"/>
           <h1 className="title">
             Welcome to <span className="brand-name">MindQuest</span>
           </h1>
